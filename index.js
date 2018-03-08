@@ -21,5 +21,3 @@ function sayHiToGrandma(str) {
     return "YES INDEED!"
   }
 }
-
-function sayHi
